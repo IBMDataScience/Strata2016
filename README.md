@@ -42,20 +42,24 @@ A Bluemix ID is needed to log into DSX, If you have a Bluemix account, skip part
 
 #Step 2. Watch the Video of this Hands on Exercise.
 
+Click on Image to watch YouTube Video. https://youtu.be/nmoB-5FU9OA
+
  > [![Video](https://github.com/ibmdataworks/datafirst/blob/master/datascientist/media/Video.png)](https://youtu.be/nmoB-5FU9OA "NY Resturant Analysis")
 
 #Step 3. Load your notbook into Data Science Experience (DSX).
 
 1. Click Start a New Notebook.
 
-> <img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/LN1.png" width="396">
+ > <img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/LN1.png" width="396">
 
 2. Click From Url, Enter Notebook Name and Description and paste notebook URL https://raw.githubusercontent.com/IBMDataScience/Strata2016/master/New%20York%20Restaurants.ipynb
 
-> <img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/LN2.png" width="396">
+ > <img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/LN2.png" width="396">
 
 3. Select Create
 
-> <img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/LN3.png" width="396">
+ > <img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/LN3.png" width="396">
 
 #Step 4. Perform steps in your notebook.
+
+Run throught steps in notebook.. And if your in IBM Booth, when your done just show your results and get Raspberry Pi3!
