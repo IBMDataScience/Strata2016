@@ -6,9 +6,9 @@
 
 IBM Data Science Experience (DSX) is the premier offering that seamlessly allows data scientists and data engineers to connect data from multiple domains, to analyze and visually explore the data for insights. DSX brings together the data science development experience accumulated in R, Python, Scala, and Java, intuitive data connectivity and processing capabilities of Apache Spark, and the state-of-art dynamic visualization technology using Brunel, Pixiedust, and RStudio.
 
-#Step 1. Get on IBM Data Science Experience (DSX) platform...
-## Part 1. Create a BlueMix Account.
-If you have a Bluemix account, ship to Part 2.
+#Step 1. Get on IBM Data Science Experience (DSX).
+##Create a BlueMix Account.
+A Bluemix ID is needed to log into DSX, If you have a Bluemix account, skip part to create bluemix ID.
 
 1.  Go to [www.bluemix.net](https://www.bluemix.net)
 
@@ -28,7 +28,7 @@ If you have a Bluemix account, ship to Part 2.
 
  > <img src="https://github.com/ibmdataworks/datafirst/blob/master/appdeveloper/media/image5.png" width="396" height="330" />
 
-##Part 2. Log into Data Science Experience (DSX).
+##Log into Data Science Experience (DSX).
 
 1. Goto [http://datascience.ibm.com/](http://datascience.ibm.com/)
 
@@ -46,6 +46,16 @@ If you have a Bluemix account, ship to Part 2.
 
 #Step 3. Load your notbook into Data Science Experience (DSX).
 
-https://raw.githubusercontent.com/IBMDataScience/Strata2016/master/New%20York%20Restaurants.ipynb
+1. Click Start a New Notebook.
+
+> <img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/LN1.png">
+
+2. Click From Url, Enter Notebook Name and Description and paste notebook URL https://raw.githubusercontent.com/IBMDataScience/Strata2016/master/New%20York%20Restaurants.ipynb
+
+> <img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/LN2.png">
+
+3. Select Create
+
+> <img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/LN3.png">
 
 #Step 4. Perform steps in your notebook.
