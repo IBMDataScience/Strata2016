@@ -35,8 +35,7 @@ If you have a Bluemix account, ship to Part 2.
 
 ![bluemix login](https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/bluemixsignup2.png)
 
-You are now in the Data Science Experience. Depending on the plan you chose, your environment is automatically set up with at least one Apache Spark instance and at least 5 GB of object storage.
-From here you can create a new project, notebook, or connection. You can also explore any of the tutorials, videos, sample notebooks or articles in the community.
+You are now in the Data Science Experience. Depending on the plan you chose, your environment is automatically set up with at least one Apache Spark instance and at least 5 GB of object storage. From here you can create a new project, notebook, or connection. You can also explore any of the tutorials, videos, sample notebooks or articles in the community.
 
 ![dsx start](https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/dsxStart.png)
 
@@ -45,4 +44,4 @@ From here you can create a new project, notebook, or connection. You can also ex
 
 #Step 3. Load your notbook into DSx.
 
-
+https://raw.githubusercontent.com/IBMDataScience/Strata2016/master/notebooks/New%20York%20Restaurants.ipynb
