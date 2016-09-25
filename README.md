@@ -50,16 +50,20 @@ Click on Image to watch YouTube Video. https://youtu.be/nmoB-5FU9OA
 
 1. Click Start a New Notebook.
 
- > <img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/LN1.png" width="396">
+ > <img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/LN1.png" width="296">
 
-2. Click From Url, Enter Notebook Name and Description and paste notebook URL https://raw.githubusercontent.com/IBMDataScience/Strata2016/master/New%20York%20Restaurants.ipynb
+2. Click From Url, Enter any Notebook Name and Description and <br>paste notebook URL https://raw.githubusercontent.com/IBMDataScience/Strata2016/master/New%20York%20Restaurants.ipynb
 
- > <img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/LN2.png" width="396">
+ > <img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/LN2.png" width="296">
 
-3. Select Create
+3. Select Create Notebook
 
- > <img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/LN3.png" width="396">
+ > <img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/LN3.png" width="296">
 
 #Step 4. Perform steps in your notebook.
 
-Run throught steps in notebook.. And if your in IBM Booth, when your done just show your results and get Raspberry Pi3!
+Run throught steps in notebook.. 
+
+*Hint: Jupyter notebook cells are driving by commands along top. Just hit play button to run an active cell.
+
+If your in IBM Booth, when your done just show your executed code and get Raspberry Pi3!
