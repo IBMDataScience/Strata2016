@@ -60,10 +60,10 @@ Click on Image to watch YouTube Video. https://youtu.be/nmoB-5FU9OA
 
  > <img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/LN3.png" width="296">
 
-#Step 4. Perform steps in your notebook.
+#Step 4. Execute the steps in your notebook.
 
-Run throught steps in notebook.. 
+Run code cells in your notebook.. Note: Read instructions.. Some cells require you yo enter code. 
 
-*Hint: Jupyter notebook cells are driving by commands along top. Just hit play button to run an active cell.
+*Interface Hint: Jupyter notebook cells are driving by commands buttons along the top. Just hit play button to run code in active cell.
 
-If your in IBM Booth, when your done just show your executed code and get Raspberry Pi3!
+If your in IBM Booth, when your done, show your executed code to IBMer and get your Raspberry Pi 3!
