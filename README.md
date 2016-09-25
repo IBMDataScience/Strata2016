@@ -15,7 +15,7 @@ If you have a Bluemix account, ship to Part 2.
 
 2.  Click the signup button on the top right
 
- ![bluemix signup](https://github.com/ibmdataworks/datafirst/tree/master/appdeveloper/media/image2.png)
+ > <img src="https://github.com/ibmdataworks/datafirst/tree/master/appdeveloper/media/image2.png" width="624" height="171" />
 
 3.  On the next page fill in the corresponding fields and click “Create Account”
 
