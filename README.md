@@ -48,14 +48,14 @@ A Bluemix ID is needed to log into DSX, If you have a Bluemix account, skip part
 
 1. Click Start a New Notebook.
 
-> <img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/LN1.png">
+> <img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/LN1.png" width="396">
 
 2. Click From Url, Enter Notebook Name and Description and paste notebook URL https://raw.githubusercontent.com/IBMDataScience/Strata2016/master/New%20York%20Restaurants.ipynb
 
-> <img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/LN2.png">
+> <img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/LN2.png" width="396">
 
 3. Select Create
 
-> <img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/LN3.png">
+> <img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/LN3.png" width="396">
 
 #Step 4. Perform steps in your notebook.
