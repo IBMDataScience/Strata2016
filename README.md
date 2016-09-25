@@ -1,11 +1,10 @@
 # Strata2016
-##Welcome to IBM Data Science Experience (DSX) - datascience.ibm.com
 
-IBM Data Science Experience (DSX) is the premier offering that seamlessly allows data scientists and data engineers to connect data from multiple domains, to analyze it, and visually to explore the data for insights. The solutions that were not possible previously or required months of development effort can now be done in DSX in a very fast and intuitive manner.
+##Hands On Lab for Hadoop World - Strata NY 2016 Conference.
 
-R has become the de-facto standard in the domain of data science: it supports multiple machine learning algorithms and ability to visualize the outcomes of the research.
+###This Hands on Lab is performed on IBM Data Science Experience platform (datascience.ibm.com) to load and analyzes NY health code data to find interesting insights on NY Restaurants.
 
-DSX brings together the data science development experience accumulated in R, Python, Scala, and Java, intuitive data connectivity and processing capabilities of Spark, and the state-of-art dynamic visualization technology using Brunel, Pixiedust, and RStudio.
+IBM Data Science Experience (DSX) is the premier offering that seamlessly allows data scientists and data engineers to connect data from multiple domains, to analyze and visually explore the data for insights. DSX brings together the data science development experience accumulated in R, Python, Scala, and Java, intuitive data connectivity and processing capabilities of Apache Spark, and the state-of-art dynamic visualization technology using Brunel, Pixiedust, and RStudio.
 
 #Step 1. Get on IBM Data Science Experience (DSX) platform...
 ## Part 1. Create a BlueMix Account.
@@ -43,9 +42,10 @@ If you have a Bluemix account, ship to Part 2.
 
 #Step 2. Watch the Video of this Hands on Exercise.
 
- > 
+ > [![Video](https://github.com/ibmdataworks/datafirst/blob/master/datascientist/media/Video.png)](https://youtu.be/nmoB-5FU9OA "NY Resturant Analysis")
 
 #Step 3. Load your notbook into Data Science Experience (DSX).
 
 https://raw.githubusercontent.com/IBMDataScience/Strata2016/master/New%20York%20Restaurants.ipynb
 
+#Step 4. Perform steps in your notebook.
