@@ -31,7 +31,7 @@ If you have a Bluemix account, ship to Part 2.
 
 ##Part 2. Log into Data Science Experience (DSX).
 
-1. Goto [https://datascience.ibm.com/](https://datascience.ibm.com/)
+1. Goto [http://datascience.ibm.com/](http://datascience.ibm.com/)
 
 2. Click the Log In button on the DSX landing page to sign in with your Bluemix credentials. Type in your Bluemix email address and password, then click Sign In.
 
