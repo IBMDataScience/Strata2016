@@ -7,15 +7,31 @@ R has become the de-facto standard in the domain of data science: it supports mu
 
 DSX brings together the data science development experience accumulated in R, Python, Scala, and Java, intuitive data connectivity and processing capabilities of Spark, and the state-of-art dynamic visualization technology using Brunel, Pixiedust, and RStudio.
 
-#Step 1. Get on IBM Data Science Experience (DSX)...
+#Step 1. Get on IBM Data Science Experience (DSX) platform...
+## Part 1. Create a BlueMix Account.
+If you have a Bluemix account, ship to Part 2.
 
-Before you start, you’ll need a Bluemix account. If you don’t have a Bluemix account, follow the steps to create one [here]( https://console.ng.bluemix.net/registration/). 
+1.  Go to [www.bluemix.net](http://www.bluemix.net)
 
-![bluemix signup](https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/bluemixsignup1.png)
+2.  Click the signup button on the top right
 
-Once you fill out the form to sign up, check your email for an activation code. Once you have the activation code, you can complete the Bluemix sign up process. Now that you have a Bluemix account, you can login from the [DSX landing page]( http://datascience.ibm.com/).
+ > <img src="./media/image2.png" width="624" height="171" />
 
-If you have a Bluemix account, click the Log In button on the DSX landing page to sign in with your Bluemix credentials. Type in your Bluemix email address and password, then click Sign In.
+3.  On the next page fill in the corresponding fields and click “Create Account”
+
+ > <img src="./media/image3.png" width="624" height="300" />
+
+4.  You will see a page asking you to check your email for next steps. Check your email that you used to sign up for Bluemix
+
+ > <img src="./media/image4.png" width="237" height="219" />
+
+5.  Click on the “confirm your account” link
+
+ > <img src="./media/image5.png" width="396" height="330" />
+
+##Part 2. Log into Data Science Experience (DSX)...
+
+1. Click the Log In button on the DSX landing page to sign in with your Bluemix credentials. Type in your Bluemix email address and password, then click Sign In.
 
 ![bluemix login](https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/bluemixsignup2.png)
 
