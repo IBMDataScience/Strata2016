@@ -31,11 +31,11 @@ If you have a Bluemix account, ship to Part 2.
 
 ##Part 2. Log into Data Science Experience (DSX)...
 
-1. Goto [datascience.ibm.com](http://www.datascience.ibm.com/)
+1. Goto [datascience.ibm.com](https://datascience.ibm.com/)
 
 2. Click the Log In button on the DSX landing page to sign in with your Bluemix credentials. Type in your Bluemix email address and password, then click Sign In.
 
- > <img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/bluemixsignup2.png">
+ > <img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/DSX Sign On.png">
 
  > You are now in the Data Science Experience. Depending on the plan you chose, your environment is automatically set up with at least one Apache Spark instance and at least 5 GB of object storage. From here you can create a new project, notebook, or connection. You can also explore any of the tutorials, videos, sample notebooks or articles in the community.
 
