@@ -11,7 +11,7 @@ DSX brings together the data science development experience accumulated in R, Py
 ## Part 1. Create a BlueMix Account.
 If you have a Bluemix account, ship to Part 2.
 
-1.  Go to <a href="www.bluemix.net" target="_blank">www.bluemix.net</a>
+1.  Go to [www.bluemix.net](https://www.bluemix.net)
 
 2.  Click the signup button on the top right
 
@@ -31,7 +31,7 @@ If you have a Bluemix account, ship to Part 2.
 
 ##Part 2. Log into Data Science Experience (DSX).
 
-1. Goto <a href="datascience.ibm.com" target="_blank">datascience.ibm.com</a> 
+1. Goto [datascience.ibm.com](https://datascience.ibm.com/)
 
 2. Click the Log In button on the DSX landing page to sign in with your Bluemix credentials. Type in your Bluemix email address and password, then click Sign In.
 
