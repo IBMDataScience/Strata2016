@@ -1,7 +1,6 @@
-# Strata2016
  <img src="https://github.com/ibmdataworks/datafirst/blob/master/datascientist/media/StrataHadoop_NYC2016.jpg"/>
  
-##Hands On Lab for Hadoop World - Strata NY 2016 Conference.
+#Hands On Lab - Strata Hadoop NY 2016 Conference - IBM Booth: #439
 
 ###This Hands on Lab is performed on IBM Data Science Experience platform (datascience.ibm.com) to load and analyzes NY health code data to find interesting insights on NY Restaurants.
 
