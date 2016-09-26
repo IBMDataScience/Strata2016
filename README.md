@@ -2,7 +2,7 @@
  
 #Hands On Lab - IBM Booth: #439
 
-###This Hands on Lab is performed on IBM Data Science Experience platform (datascience.ibm.com) to load and analyzes NY health code data to find interesting insights about NY Restaurants.
+###This Lab will be performed on IBM Data Science Experience platform (datascience.ibm.com). The Lab loads, analyzies visualizes NY health code data to find interesting insights about NY Restaurants.
 
 IBM Data Science Experience (DSX) is the premier offering that seamlessly allows data scientists and data engineers to connect data from multiple domains, to analyze and visually explore the data for insights. DSX brings together the data science development experience accumulated in R, Python, Scala, and Java, intuitive data connectivity and processing capabilities of Apache Spark, and the state-of-art dynamic visualization technology using Brunel, Pixiedust, and RStudio.
 
