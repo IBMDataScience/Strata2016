@@ -62,8 +62,10 @@ Click on Image to watch YouTube Video. https://youtu.be/nmoB-5FU9OA
 
 #Step 4. Execute the steps in your notebook.
 
-Run code cells in your notebook.. Note: Read instructions.. Some cells require you yo enter code. 
+Run code cells in your notebook. Note: Read instructions. Some cells require you to enter the code. 
 
-*Interface Hint: Jupyter notebook cells are driving by commands buttons along the top. Just hit play button to run code in active cell.
+*Interface Hint: 
+Jupyter notebooks are cell driving with commands buttons along the top. 
+Just hit play button to run code in an active cell.
 
-If your in IBM Booth, when your done, show your executed code to IBMer and get your Raspberry Pi 3!
+If your doing the Lab in IBM Booth: #439, once completed, show your executed code to booth rep. and earn your Raspberry Pi 3!
