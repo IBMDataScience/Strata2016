@@ -44,7 +44,7 @@ A Bluemix ID is needed to log into DSX, If you have a Bluemix account, skip part
 
 Click on Image to watch YouTube Video. https://youtu.be/nmoB-5FU9OA
 
- > [![Video](https://github.com/ibmdataworks/datafirst/blob/master/datascientist/media/Video.png)](https://youtu.be/nmoB-5FU9OA "NY Resturant Analysis")
+ > [![Video](https://github.com/ibmdataworks/datafirst/blob/master/datascientist/media/Video.png)](https://youtu.be/2Ub8lf4upag "NY Resturant Analysis")
 
 #Step 3. Load your notbook into Data Science Experience (DSX).
 
