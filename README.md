@@ -8,15 +8,14 @@ IBM Data Science Experience (DSX) is the premier offering that seamlessly allows
 
 #Step 1. Get on IBM Data Science Experience (DSX).
 ##Create a BlueMix Account.
-A Bluemix ID is needed to log into DSX, If you have a Bluemix account, skip part to create bluemix ID.
 
-1.  Go to [www.bluemix.net](https://www.bluemix.net)
+1.  Go to [http://datascience.ibm.com/](http://datascience.ibm.com/)
 
 2.  Click the signup button on the top right
 
- > <img src="https://github.com/ibmdataworks/datafirst/blob/master/appdeveloper/media/image2.png" width="624" height="171" />
+ > <img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/DSX Sign On.png">
 
-3.  On the next page fill in the corresponding fields and click “Create Account”
+3.  If you have a Bluemix account you can click continue with Bluemix credentials, otherwise click create your Bluemix account and enter your email, then on the next page fill in the corresponding fields and click “Create Account”
 
  > <img src="https://github.com/ibmdataworks/datafirst/blob/master/appdeveloper/media/image3.png" width="624" height="300" />
 
@@ -28,13 +27,8 @@ A Bluemix ID is needed to log into DSX, If you have a Bluemix account, skip part
 
  > <img src="https://github.com/ibmdataworks/datafirst/blob/master/appdeveloper/media/image5.png" width="396" height="330" />
 
-##Log into Data Science Experience (DSX).
+6.  Click the Log In button on the DSX landing page to sign in with your Bluemix credentials. Type in your Bluemix email address and password, then click Sign In.
 
-1. Goto [http://datascience.ibm.com/](http://datascience.ibm.com/)
-
-2. Click the Log In button on the DSX landing page to sign in with your Bluemix credentials. Type in your Bluemix email address and password, then click Sign In.
-
- > <img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/DSX Sign On.png">
 
  > You are now in the Data Science Experience. Depending on the plan you chose, your environment is automatically set up with at least one Apache Spark instance and at least 5 GB of object storage. From here you can create a new project, notebook, or connection. You can also explore any of the tutorials, videos, sample notebooks or articles in the community.
 
