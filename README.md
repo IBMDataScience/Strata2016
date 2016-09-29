@@ -36,9 +36,9 @@ IBM Data Science Experience (DSX) is the premier offering that seamlessly allows
 
 #Step 2. Watch the Video of this Hands on Exercise.
 
-Click on Image to watch YouTube Video. https://youtu.be/jhFo47juTFI
+Click on Image to watch YouTube Video. https://www.youtube.com/watch?v=2Ub8lf4upag
 
- > [![Video](https://github.com/ibmdataworks/datafirst/blob/master/datascientist/media/Video.png)](https://youtu.be/jhFo47juTFI "NY Resturant Analysis")
+ > [![Video](https://github.com/ibmdataworks/datafirst/blob/master/datascientist/media/Video.png)](https://www.youtube.com/watch?v=2Ub8lf4upag "NY Resturant Analysis")
 
 #Step 3. Load your notbook into Data Science Experience (DSX).
 
