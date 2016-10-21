@@ -1,6 +1,6 @@
- <img src="https://github.com/ibmdataworks/datafirst/blob/master/datascientist/media/WOWH557.png"/>
+<img src="https://github.com/ibmdataworks/datafirst/blob/master/datascientist/media/StrataHadoop_NYC2016.jpg"/>
  
-#World of Watson - Hands On Lab - Booth: #557
+#Hands On Lab - IBM Booth: #439
 
 ###This Lab will be performed on IBM Data Science Experience platform (datascience.ibm.com). This Lab will guide you to load, analyze and visualize public health violation data to uncover interesting insights about New York Restaurants using Apache Spark, Python and Jupyter.
 
